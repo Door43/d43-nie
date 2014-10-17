@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nie:home|Door43 (nie)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nie|d43-nie repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nie/archive/master.zip|d43-nie.zip]]
+
+**Recent Changes**
+{{changes>ns = nie}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nie|Ethnologue data]]
+
